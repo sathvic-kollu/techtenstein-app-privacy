@@ -1,16 +1,11 @@
-PROPOSED PUBLIC POLICY UPDATE — NOT PUBLISHED
-Repository: sathvic-kollu/techtenstein-app-privacy
-File: vibration-timer-patterns/privacy-policy.md
-Changes: adult 18+ intended audience, no enforced age verification; current release has no active in-app purchases; remove obsolete purchase/entitlement statements. Publisher name and other existing commitments remain unchanged.
-
-# Privacy Policy — Vibration Timer & Patterns
+# Privacy Policy — Vibration Timer &amp; Patterns
 
 Effective date: 3 October 2026  
 Publisher: Techtenstein Services Private Limited  
 Android package: com.vibration.sessiontimer  
 Contact: [contact@techtenstein.com](mailto:contact@techtenstein.com)
 
-Vibration Timer & Patterns runs timed vibration patterns on your device. It does not require an account or access to your photos, documents, contacts, microphone, or precise location. It is a comfort utility, not a medical treatment.
+Vibration Timer &amp; Patterns runs timed vibration patterns on your device. It does not require an account or access to your photos, documents, contacts, microphone, or precise location. It is a comfort utility, not a medical treatment.
 
 ## Information and purposes
 
@@ -35,4 +30,3 @@ Local settings remain on your device until you clear app storage or uninstall. A
 Local choices are held in Android app-private storage. The app uses provider SDKs for consent and ads. The app is intended for adults aged 18 and older; it does not include an in-app age gate or age verification.
 
 If this policy changes, the effective date above will be updated. For a material change in app data practices, Techtenstein will also notify users in the app before or with the relevant app update. Questions and privacy requests can be sent to [contact@techtenstein.com](mailto:contact@techtenstein.com).
-
